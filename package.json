@@ -1,6 +1,6 @@
 {
   "name": "vellium",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Local-first desktop AI workbench for roleplay, multi-character chat, long-form writing, RAG, MCP tools, plugins, and local models.",
   "main": "src/index.ts",
   "scripts": {
